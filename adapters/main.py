@@ -22,13 +22,6 @@ if __name__ == "__main__":
         else:
             print("Diretório inválido. Tente novamente.")
 
-    while False:
-        path_clientes = input('Por favor informe o diretorio de clientes: ')
-
-
-    if True:
-        pass
-    else
 
     path_vendas = input('Por favor informe o diretorio de vendas: ')
 
