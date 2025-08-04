@@ -17,4 +17,3 @@ def validate_entry_directory(path):
             print(f"Diretorio '{path}' nao existe.")
             return False
         return True
-
