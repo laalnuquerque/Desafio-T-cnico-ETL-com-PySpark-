@@ -12,15 +12,7 @@ if __name__ == "__main__":
     sales = create_dataframe_sales()
 
     path_clientes = validate_entry_directory()
-    )
 
-    while True:
-        path_clientes = input('Por favor informe o diretório de clientes: ')
-        if os.path.exists(path_clientes):
-            print("Diretório encontrado!")
-            break
-        else:
-            print("Diretório inválido. Tente novamente.")
 
 
     path_vendas = input('Por favor informe o diretorio de vendas: ')
